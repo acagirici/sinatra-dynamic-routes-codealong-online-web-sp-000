@@ -25,4 +25,4 @@ class App < Sinatra::Base
     product = @num1.to_i * @num2.to_i
     product.to_s
   end
-end
+end 
